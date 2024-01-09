@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "roomDiffuser",
+    "slug": "roomDiffuser",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
