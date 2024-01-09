@@ -1,0 +1,16 @@
+{
+  "name": "roomDiffuser",
+  "description": "Revolutionize your interior design process with ML-driven visualization",
+  "technologies": ["react-native", "swift", "coreml", "stablediffusion"],
+  "platforms": ["ios"],
+  "features": {
+    "AI-Powered Design Tools": "Easily experiment with different interior design styles using advanced AI algorithms.",
+    "Real-Time Rendering": "See your design changes come to life instantly with real-time rendering capabilities.",
+    "User-Friendly Interface": "Navigate through the app with an intuitive interface designed for simplicity and efficiency.",
+    "Customizable Templates": "Start with a variety of templates to quickly bring your interior design ideas to life.",
+    "In-App Inspiration Gallery": "Browse a gallery of designs created by other users and gain inspiration for your own projects."
+  },
+  "status": "In Development",
+  "currentVersion": "0.1.0",
+  "homepage": "https://roomdiffuser.joshgrzech.com"
+}
